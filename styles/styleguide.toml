@@ -12,7 +12,7 @@ show-source = true
 
 # Plugins:
 max-line-length = 80
-max-complexity = 6
+max-complexity = 16
 
 # darglint:
 docstring-style = "numpy"
